@@ -28,7 +28,6 @@ x86_64-w64-mingw32-gcc.exe main.c `pkg-config.exe --cflags --libs gtk+-3.0`
 #### 3.Run
 Run the `a.exe`.
 
-======
 ### <a name="macos"></a>MacOS
 ---
 #### 1.Prerequisite 
@@ -52,7 +51,6 @@ brew install gtk+3
 #### 3.Run
 Xcode should start automaticaly the program.
 
-======
 ### <a name="linux"></a>Linux
 ---
 #### 1.Prerequisite 
