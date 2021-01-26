@@ -1,3 +1,5 @@
+#Enigma-CLI is the commande line version of Enigma in C
+
 # Enigma in C
 - Projet de premier semestre de Génie Electrique et informatique industrielle.
 - First semester's Project of electrical Engineer.
