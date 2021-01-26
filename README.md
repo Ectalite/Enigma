@@ -4,7 +4,7 @@
 ------
 
 ## How to run
-- Download the compilled zip archive.
+- Download the [compilled zip archive](https://github.com/Ectalite/Enigma/releases).
 - Unzip it. 
 - Run `Enigma.exe`.
 
